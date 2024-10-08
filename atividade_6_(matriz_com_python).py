@@ -29,3 +29,6 @@ max_E = np.max(E)
 min_E = np.min(E)
 print("Valor máximo de E:", max_E)
 print("Valor mínimo de E:", min_E)
+
+# link do github:
+# https://github.com/oEmailou02/atividade-estrmate-py/blob/master/atividade_6_(matriz_com_python).py
